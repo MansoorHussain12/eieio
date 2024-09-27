@@ -1,0 +1,284 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"text": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Ex do excepteur ea nostrud ea irure adipisicing reprehenderit fugiat consectetur. Anim exercitation occaecat incididunt eu ipsum occaecat."
+						}
+					}
+				]
+			},
+			"image": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1547082299-de196ea013d6",
+					"width": 4272,
+					"height": 2848
+				},
+				"url": "https://images.unsplash.com/photo-1547082299-de196ea013d6",
+				"width": 4272,
+				"height": 2848,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"credits": null,
+				"alt": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			},
+			"text_align": {
+				"__TYPE__": "FieldContent",
+				"value": "text-center",
+				"type": "Select"
+			}
+		},
+		"items": []
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "splitImageRight",
+		"primary": {
+			"text": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Duis aliquip nostrud amet culpa qui duis pariatur. Exercitation laboris et velit ullamco dolor incididunt. Proident sunt veniam sint officia."
+						}
+					}
+				]
+			},
+			"image": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1579931794097-0ad001e51edb",
+					"width": 3958,
+					"height": 3958
+				},
+				"url": "https://images.unsplash.com/photo-1579931794097-0ad001e51edb",
+				"width": 3958,
+				"height": 3958,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"credits": null,
+				"alt": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "splitImageButtonLeft",
+		"primary": {
+			"text": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Aute proident est pariatur duis aute ullamco irure."
+						}
+					}
+				]
+			},
+			"image": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1560762484-813fc97650a0",
+					"width": 3344,
+					"height": 2509
+				},
+				"url": "https://images.unsplash.com/photo-1560762484-813fc97650a0",
+				"width": 3344,
+				"height": 2509,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"credits": null,
+				"alt": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			},
+			"button_link": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://twitter.com"
+				}
+			},
+			"button_label": {
+				"__TYPE__": "FieldContent",
+				"value": "snow",
+				"type": "Text"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "splitImageButtonRight",
+		"primary": {
+			"text": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Anim aliqua voluptate cillum cupidatat ad labore magna excepteur."
+						}
+					}
+				]
+			},
+			"image": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1494173853739-c21f58b16055",
+					"width": 3277,
+					"height": 4092
+				},
+				"url": "https://images.unsplash.com/photo-1494173853739-c21f58b16055",
+				"width": 3277,
+				"height": 4092,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"credits": null,
+				"alt": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			},
+			"button_link": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://google.com"
+				}
+			},
+			"button_label": {
+				"__TYPE__": "FieldContent",
+				"value": "cheese",
+				"type": "Text"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "heroSection",
+		"primary": {
+			"image": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1571126770897-2d612d1f7b89",
+					"width": 3456,
+					"height": 3456
+				},
+				"url": "https://images.unsplash.com/photo-1571126770897-2d612d1f7b89",
+				"width": 3456,
+				"height": 3456,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"credits": null,
+				"alt": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			},
+			"button_link": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://google.com"
+				}
+			},
+			"button_label": {
+				"__TYPE__": "FieldContent",
+				"value": "information",
+				"type": "Text"
+			},
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Sugar"
+						}
+					}
+				]
+			},
+			"paragraph": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Enim esse officia fugiat. Tempor consectetur cillum quis laboris quis est commodo exercitation et qui."
+						}
+					}
+				]
+			},
+			"background_color": {
+				"__TYPE__": "FieldContent",
+				"value": "Green",
+				"type": "Select"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	}
+]

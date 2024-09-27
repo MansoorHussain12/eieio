@@ -1,0 +1,45 @@
+{
+  "format": "custom",
+  "id": "global_nav",
+  "label": "Global Nav",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "company_name": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Company Name",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "multi": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "menu_item": {
+        "type": "Group",
+        "config": {
+          "label": "Menu Item",
+          "repeat": true,
+          "fields": {
+            "menu_link": {
+              "type": "Link",
+              "config": {
+                "label": "Menu Link",
+                "placeholder": "",
+                "allowTargetBlank": false,
+                "select": null
+              }
+            },
+            "menu_label": {
+              "type": "Text",
+              "config": {
+                "label": "Menu Label",
+                "placeholder": ""
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

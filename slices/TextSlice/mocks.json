@@ -1,0 +1,57 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"text_field": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Aliquip sint magna voluptate veniam Lorem tempor laborum reprehenderit commodo excepteur fugiat reprehenderit in magna laborum. Et ipsum esse adipisicing Lorem elit cupidatat veniam culpa pariatur nostrud. Aute cillum cupidatat anim ea eu."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "textWithButton",
+		"primary": {
+			"text_field": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Culpa excepteur irure tempor. Mollit et sint voluptate occaecat nulla sunt eu eiusmod enim do culpa fugiat. Labore Lorem pariatur aute elit aliquip exercitation minim incididunt minim est officia commodo tempor anim.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"button_link": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://twitter.com"
+				}
+			},
+			"button_label": {
+				"__TYPE__": "FieldContent",
+				"value": "coming",
+				"type": "Text"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	}
+]
